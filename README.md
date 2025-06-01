@@ -1,1 +1,1 @@
-[![Click Here](https://static.vecteezy.com/system/resources/previews/029/758/697/non_2x/new-click-here-modern-website-click-button-level-sign-speech-bubble-banner-vector.jpg)](https://qrcodegenrator-sivakumar.netlify.app/)
+[![Click Here](https://cdn-icons-png.flaticon.com/128/14018/14018663.png)](https://qrcodegenrator-sivakumar.netlify.app/)
