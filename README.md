@@ -4,56 +4,35 @@ Wanna see how it works? Click below and explore the real-time version of this pr
 
 [![Try It Out](https://img.shields.io/badge/Try-It--Now-green?style=for-the-badge)](https://qrcodegenrator-sivakumar.netlify.app/)
 
-## 🚀 Try the Live Demo – Real-Time in Action!
+## 🚀 Launch the Live Demo Now!
 
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="100%" alt="Live Demo Banner" />
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
 
-[![🚀 Click to Launch](https://img.shields.io/badge/Launch-LiveDemo-brightgreen?style=for-the-badge&logo=googlechrome)](https://your-live-link.com)
+[![🚀 Launch](https://img.shields.io/badge/Launch-Live_Now-purple?style=for-the-badge&logo=vercel)](https://your-live-link.com)
 
+## 🚀 Check Out the Live Demo Now!
 
-## 🎯 Interactive Live Demo
+![Click Here](https://media.giphy.com/media/3o7TKP9FvZ6klWlIC0/giphy.gif)
 
-<img src="https://media.giphy.com/media/3o7aD4Y6WqfK2T9uGk/giphy.gif" width="300"/>  
+[![🔥 Visit Live Site](https://img.shields.io/badge/Visit-Live_Site-blue?style=for-the-badge&logo=rocket)](https://your-live-link.com)
 
-[![🔥 Launch Demo](https://img.shields.io/badge/Launch-Demo-red?style=for-the-badge&logo=thunder)](https://your-live-link.com)
+## 🧪 Real-Time Dashboard Preview
 
+![Live UI](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
-## 👀 See the Real-Time Dashboard
+[![🟢 Try It Out](https://img.shields.io/badge/Try-Now-green?style=for-the-badge&logo=chrome)](https://your-live-link.com)
 
-![Dashboard Banner](https://your-image-link.com/banner.png)  
+## 📲 Experience It on Mobile
 
-[![🌐 View Live](https://img.shields.io/badge/View-Live-blue?style=for-the-badge&logo=chrome)](https://your-live-link.com)
+![App Demo](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
-## 🚀 Live Preview – Experience It in Action!
-
-![Project Preview](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
-[![🔗 Click Here to Try It Live](https://img.shields.io/badge/Try-Live_Now-green?style=for-the-badge&logo=rocket)](https://your-live-link.com)
-
-
-## ✨ Live UI Preview
-
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="100%" alt="UI Preview"/>
-
-[![💡 Try It Now](https://img.shields.io/badge/Try-Now-purple?style=for-the-badge&logo=vercel)](https://your-live-link.com)
+[![📱 Open App](https://img.shields.io/badge/Open-App-orange?style=for-the-badge&logo=android)](https://your-app-link.com)
 
 
-## 🖥️ Real-Time Console in Action!
+## ⚡ One Click Away from Awesomeness!
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Console Animation"/>
+![Click Now](https://media.giphy.com/media/ToMjGpP8v3Xy5z8Tq6Y/giphy.gif)
 
-[![💻 Open Console View](https://img.shields.io/badge/Open-ConsoleView-lightgrey?style=for-the-badge&logo=terminal)](https://your-live-link.com)
+[![💥 Launch Live Site](https://img.shields.io/badge/Launch-Live-red?style=for-the-badge&logo=zap)](https://your-live-link.com)
 
-
-## 🔥 Experience It Live!
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400px" alt="Click Here Animation"/>
-
-[![👉 Click Here](https://img.shields.io/badge/Click-Here-blue?style=for-the-badge&logo=firefox)](https://your-live-link.com)
-
-
-## 🚀 Try the Live Demo – Real-Time in Action!
-
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="100%" alt="Live Demo Banner" />
-
-[![🚀 Click to Launch](https://img.shields.io/badge/Launch-LiveDemo-brightgreen?style=for-the-badge&logo=googlechrome)](https://your-live-link.com)
 
